@@ -18,6 +18,9 @@ msgstr ""
 msgid "Firsts Of"
 msgstr "Premiers De"
 
+msgid "Allow keeping only the first item of entities according to their type."
+msgstr "Permet de conserver seulement le premier élément des entités en fonction de leur type."
+
 msgid "Firsts of"
 msgstr "Premiers de"
 

@@ -1,0 +1,14 @@
+{
+    "name": "drupal/firsts_of",
+    "description": "Allow keeping only the first item of entities according to their type.",
+    "type": "drupal-custom-module",
+    "authors": [
+        {
+            "name": "Frédéric Bisson",
+            "homepage": "https://www.drupal.org/u/zigazou",
+            "role": "Maintainer"
+        }
+    ],
+    "license": "GPL-3.0+",
+    "minimum-stability": "dev"
+}

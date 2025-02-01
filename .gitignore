@@ -1,0 +1,30 @@
+# Ignore configuration files that may contain sensitive information
+settings.php
+settings.local.php
+
+# Ignore compiled source files
+vendor/
+node_modules/
+
+# Ignore temporary files
+tmp/
+temp/
+cache/
+
+# Ignore log files
+*.log
+
+# Ignore backup files
+*.bak
+*.old
+*.orig
+
+# Ignore IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db

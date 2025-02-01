@@ -1,0 +1,8 @@
+name: 'Firsts Of'
+type: module
+description: 'Allow keeping only the first item of entities according to their type.'
+core_version_requirement: ^11
+package: Fields
+dependencies:
+  - drupal:field
+  - drupal:paragraphs

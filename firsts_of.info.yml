@@ -6,3 +6,5 @@ package: Fields
 dependencies:
   - drupal:field
   - drupal:paragraphs
+interface translation project: 'firsts_of'
+interface translation server pattern: 'modules/custom/%project/translations/%language.po'
